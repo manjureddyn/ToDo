@@ -70,5 +70,6 @@ Task Tracker is a simple yet powerful React Native application designed to help 
 
 
 ## Screenshots
-
+![](/Users/nmanjunathreddy/toDo/Screenshot 2024-04-20 at 7.39.59 PM.png)
+![](/Users/nmanjunathreddy/toDo/Screenshot 2024-04-20 at 7.38.38 PM.png)
 
