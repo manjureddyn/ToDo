@@ -55,25 +55,20 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+## How the App Works
 
-You've successfully run and modified your React Native App. :partying_face:
+# Task Tracker
 
-### Now what?
+Task Tracker is a simple yet powerful React Native application designed to help users manage their tasks efficiently. It provides a clear interface for tracking tasks with due dates and notes, using a native mobile interface optimized for both Android and iOS devices.
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+## Features
 
-# Troubleshooting
+- **Add Tasks**: Users can add tasks with a task name, notes, and a due date.
+- **View Tasks**: Tasks are listed with the most urgent tasks appearing first.
+- **Due Date Indicators**: Tasks are color-coded based on how imminent the due date is (red for overdue or due today, orange for due soon, and green for tasks that are not immediately due).
+- **Remove Tasks**: Users can remove tasks by tapping on them.
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# Learn More
+## Screenshots
 
-To learn more about React Native, take a look at the following resources:
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
