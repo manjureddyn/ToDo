@@ -152,6 +152,7 @@ export default function App() {
     </NavigationContainer>
   );
 }
+//styling
 
 const styles = StyleSheet.create({
   container: {
